@@ -1,0 +1,14 @@
+import { initializeApp } from "firebase/app";
+
+const firebaseConfig = {
+  apiKey: "AIzaSyD_Z7i1S5XijO8LluMAJozI1zR_Wfz26Tc",
+  authDomain: "chrono-a2f48.firebaseapp.com",
+  projectId: "chrono-a2f48",
+  storageBucket: "chrono-a2f48.appspot.com",
+  messagingSenderId: "220099535095",
+  appId: "1:220099535095:web:7befdd2c4e7acc68eeb3f2"
+};
+
+const app = initializeApp(firebaseConfig);
+
+export default app;
