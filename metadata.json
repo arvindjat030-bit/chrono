@@ -1,0 +1,9 @@
+{
+  "name": "ChronoLux",
+  "description": "Ultra-premium luxury watch e-commerce platform featuring high-end brands, secure payments, and an immersive shopping experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
